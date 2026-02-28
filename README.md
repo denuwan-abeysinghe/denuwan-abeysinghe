@@ -24,22 +24,6 @@ I am a motivated and detail-oriented Software Engineering graduate from the **Un
 
 ---
 
-## 📈 Featured Projects
-
-### [Soft Crick Hub](https://github.com/denuwan-abeysinghe)
-*A Cricket Tournament Management & Analytics Platform.* 
-- Implemented **ML-based match winner prediction**[cite: 19].
-- Developed real-time live scoring and tournament management modules.
-- **Tech:** React, Node.js, Python, MySQL[cite: 20].
-
-### [Primeway Investment](https://github.com/denuwan-abeysinghe)
-*A Financial Platform for loan and member management.* 
-- Created modules for **loan tracking** and member authentication.
-- Designed a fully responsive UI using **Tailwind CSS**.
-- **Tech:** Laravel, MySQL, Tailwind CSS.
-
----
-
 ## 📫 Connect with Me
 - 💼 [LinkedIn](https://www.linkedin.com/in/denuwan-abeysinghe-1588742a9)
 - 🌐 [Portfolio Website](https://denuwan-portfolio.vercel.app/)
