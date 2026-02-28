@@ -1,12 +1,12 @@
 # Hi there, I'm Kanishka Denuwan Abeysinghe 👋
 
 ### 🎓 Software Engineering Graduate | First Class Honors
-[cite_start]I am a motivated and detail-oriented Software Engineering graduate from the **University of Bedfordshire**[cite: 4, 7]. I specialize in building real-world full-stack applications and am currently expanding my expertise into **Data Analytics** and **Golang** backend development.
+I am a motivated and detail-oriented Software Engineering graduate from the **University of Bedfordshire**. I specialize in building real-world full-stack applications and am currently expanding my expertise into **Data Analytics** and **Golang** backend development.
 
 ---
 
 ## 🚀 About Me
-- 🎓 **Education:** B.Sc. (Hons) [cite_start]in Software Engineering (First Class)[cite: 7, 33].
+- 🎓 **Education:** B.Sc. (Hons) in Software Engineering (First Class).
 - 🛠️ **Current Projects:** Building a personal portfolio and advanced management platforms.
 - 🎯 **Career Goal:** Seeking a Software Engineering or Data Analytics opportunity to contribute to high-quality technical solutions.
 - 🌍 **Based in:** Sri Lanka.
@@ -17,8 +17,8 @@
 
 | Category | Technologies |
 | :--- | :--- |
-| **Languages** | [cite_start]JavaScript, C/C++, PHP [cite: 12] |
-| **Frontend** | [cite_start]React, HTML5, CSS3, Tailwind CSS [cite: 13] |
+| **Languages** | JavaScript, Java, C/C++, PHP  |
+| **Frontend** | React, HTML5, CSS3, Tailwind CSS  |
 | **Backend** | Node.js, Laravel, Golang (Learning) |
 | **Data & Tools** | MySQL, Power BI, Jira, Git, Figma |
 
@@ -27,16 +27,16 @@
 ## 📈 Featured Projects
 
 ### [Soft Crick Hub](https://github.com/denuwan-abeysinghe)
-*A Cricket Tournament Management & Analytics Platform.*
-- [cite_start]Implemented **ML-based match winner prediction**[cite: 19].
-- [cite_start]Developed real-time live scoring and tournament management modules[cite: 18].
-- [cite_start]**Tech:** React, Node.js, Python, MySQL[cite: 20].
+*A Cricket Tournament Management & Analytics Platform.* 
+- Implemented **ML-based match winner prediction**[cite: 19].
+- Developed real-time live scoring and tournament management modules.
+- **Tech:** React, Node.js, Python, MySQL[cite: 20].
 
 ### [Primeway Investment](https://github.com/denuwan-abeysinghe)
-*A Financial Platform for loan and member management.*
-- [cite_start]Created modules for **loan tracking** and member authentication[cite: 21].
-- [cite_start]Designed a fully responsive UI using **Tailwind CSS**[cite: 21].
-- [cite_start]**Tech:** Laravel, MySQL, Tailwind CSS[cite: 22].
+*A Financial Platform for loan and member management.* 
+- Created modules for **loan tracking** and member authentication.
+- Designed a fully responsive UI using **Tailwind CSS**.
+- **Tech:** Laravel, MySQL, Tailwind CSS.
 
 ---
 
@@ -49,4 +49,4 @@
 ## 📫 Connect with Me
 - 💼 [LinkedIn](https://www.linkedin.com/in/denuwan-abeysinghe-1588742a9)
 - 🌐 [Portfolio Website](https://denuwan-portfolio.vercel.app/)
-- [cite_start]📧 [denuwan2001abesyinghe@gmail.com](mailto:denuwan2001abesyinghe@gmail.com) [cite: 2]
+- 📧 [denuwan2001abeysinghe@gmail.com](mailto:denuwan2001abeysinghe@gmail.com)
