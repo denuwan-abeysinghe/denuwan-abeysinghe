@@ -40,12 +40,6 @@ I am a motivated and detail-oriented Software Engineering graduate from the **Un
 
 ---
 
-## 📊 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=denuwan-abeysinghe&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=denuwan-abeysinghe&layout=compact&theme=radical)
-
----
-
 ## 📫 Connect with Me
 - 💼 [LinkedIn](https://www.linkedin.com/in/denuwan-abeysinghe-1588742a9)
 - 🌐 [Portfolio Website](https://denuwan-portfolio.vercel.app/)
